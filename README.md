@@ -1,5 +1,14 @@
 # registers.nvim
 
+## prg318 fork note
+I noticed on 2026-04-30 that `tversteeg/registers.nvim` 404s on GitHub.
+I didn't have a full clone to fork from, but I had shallow clones from my Neovim configuration instances.
+I uploaded my shallow clone to this repository so that my Neovim instances can clone it.
+I don't plan to make any specific changes, but may address issues if any come up.
+If you're maintaining a more active fork than this one, please open an issue to let me know.
+
+## Original Maintainer Notes
+
 Show register content when you try to access it in Neovim. Written in Lua.
 
 > [!WARNING]
